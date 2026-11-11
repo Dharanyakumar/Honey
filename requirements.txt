@@ -5,3 +5,4 @@ numpy>=1.26
 joblib>=1.3
 # Only needed to mirror records to the smart contract (see README):
 # web3>=6.0
+guicorn
