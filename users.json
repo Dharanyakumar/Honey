@@ -1,0 +1,22 @@
+{
+  "admin": {
+    "role": "admin",
+    "name": "Admin",
+    "hash": "scrypt:32768:8:1$JWmpl8zQcglz2vu5$094690b0d75af68d34f6d0449718378084d1d36fd1d355c3007a016fe84be5f5c5d86c6c458ec0bd31ff220842b7c5eb59d53274d2398a483425501580d36ed6"
+  },
+  "lab": {
+    "role": "lab",
+    "name": "Lab Analyst",
+    "hash": "scrypt:32768:8:1$iDumagEh5Mj30I1Q$e3dc8d2536966902e529be857c6976e379065ff6ab6ed30e8b4d6228c4c4b96a3983e1c8346018d053cd6c31ee8f87a32abce38db479ff1931699afe67bb7bd5"
+  },
+  "beekeeper": {
+    "role": "beekeeper",
+    "name": "Beekeeper",
+    "hash": "scrypt:32768:8:1$5KdZRK3pQDofDwjo$18fd70d3af877a7add12e0b45025317cc998d990af1111ac7b9ac27f6ebb75444973a58d3515f568e19a06e6f33b3ad2e6935d0e7f0298bfb2f4e9ef85a4e627"
+  },
+  "distributor": {
+    "role": "distributor",
+    "name": "Distributor",
+    "hash": "scrypt:32768:8:1$WXosWyqtcxHR9pzT$c78c3c7be727c12b73b1a6e31ff7ddcb1b8b9d06e38c2561350f0b4de31509db37b16da4e9b89677e3bcf0f18f50d414280d7f92df94cb658f4cdece8d8526d7"
+  }
+}
